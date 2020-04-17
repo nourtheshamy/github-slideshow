@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+do links work? https://www.degroote.mcmaster.ca/profiles/nour-el-shamy/
 Use the left arrow to go back!
